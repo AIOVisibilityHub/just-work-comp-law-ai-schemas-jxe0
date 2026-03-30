@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Mark Talley",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Mark is an award-winning attorney at Just Work Comp Law, whose expertise in workers' compensation law began in 2018 as a paralegal. In this role, Mark distinguished himself in case management, client relations, and meticulous attention to case details. After completing his law degree in 2024, Mark transitioned to an attorney position, where he is fully committed to maximizing his clients' case outcomes. He is admitted to practice law in Utah. Mark earned his Bachelor's degree from Brigham Young University and his Juris Doctor (JD) from Nova Southeastern University. He is an active member of the Utah Association for Justice, the Government/Administrative Law Bar, the Salt Lake County Bar, and the Utah Association Criminal Defense Lawyers. Outside of his professional life, Mark enjoys paddle boarding and spending quality time with his family. To explore how Mark can assist with your workers' compensation case, contact Just Work Comp Law at 801-746-0290 for a free consultation.",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "Workers' Compensation Law",
+    "Workers Compensation Appeals",
+    "Workers Compensation Settlement Negotiations",
+    "Worker's Compensation Denials",
+    "Workers Compensation Claims"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bar #1001540408"
+    }
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "South Salt Lake"
+  }
+}

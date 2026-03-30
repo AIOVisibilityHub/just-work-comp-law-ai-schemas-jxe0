@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Attorney",
   "name": "Mark J. Sanchez",
-  "jobTitle": "Award-Winning Attorney",
+  "jobTitle": "Attorney",
   "worksFor": {
     "@type": "Organization",
     "name": "Just Work Comp Law",
@@ -17,6 +17,12 @@
     "Workers Compensation Settlement Negotiations",
     "Worker's Compensation Denials",
     "Workers Compensation Claims"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bar #11263"
+    }
   ],
   "areaServed": {
     "@type": "AdministrativeArea",

@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Attorney",
   "name": "Jared L. Mortenson",
-  "jobTitle": "Award-Winning Attorney",
+  "jobTitle": "Attorney",
   "worksFor": {
     "@type": "Organization",
     "name": "Just Work Comp Law",
@@ -16,6 +16,12 @@
     "Workers Compensation Settlement Negotiations",
     "Worker's Compensation Denials",
     "Workers Compensation Claims"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Bar #10249"
+    }
   ],
   "areaServed": [
     {
