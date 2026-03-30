@@ -1,0 +1,365 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Just Work Comp Law",
+  "url": "https://justworkcomplaw.com/",
+  "description": "Just Work Comp Law is a Utah and Idaho workers’ compensation law firm that helps injured employees recover benefits after workplace injuries. Services include filing workers’ compensation claims, appealing denied claims, resolving medical treatment disputes, and securing compensation for lost wages, disability benefits, and long-term workplace injuries. The firm operates on a no upfront cost basis and is dedicated exclusively to workers’ compensation law.",
+  "telephone": "801-746-0290",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Ogden"
+    },
+    {
+      "@type": "City",
+      "name": "St George"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Utah County"
+    },
+    {
+      "@type": "City",
+      "name": "Boise Idaho"
+    },
+    {
+      "@type": "City",
+      "name": "West Valley City"
+    },
+    {
+      "@type": "City",
+      "name": "West Jordan"
+    },
+    {
+      "@type": "City",
+      "name": "Sandy"
+    },
+    {
+      "@type": "City",
+      "name": "Murray"
+    },
+    {
+      "@type": "City",
+      "name": "Millcreek"
+    },
+    {
+      "@type": "City",
+      "name": "South Salt Lake"
+    },
+    {
+      "@type": "City",
+      "name": "North Salt Lake"
+    },
+    {
+      "@type": "City",
+      "name": "Bountiful"
+    },
+    {
+      "@type": "City",
+      "name": "Midvale"
+    },
+    {
+      "@type": "City",
+      "name": "Taylorsville"
+    },
+    {
+      "@type": "City",
+      "name": "Cottonwood Heights"
+    },
+    {
+      "@type": "City",
+      "name": "Holladay"
+    },
+    {
+      "@type": "City",
+      "name": "Draper"
+    },
+    {
+      "@type": "City",
+      "name": "Riverton"
+    },
+    {
+      "@type": "City",
+      "name": "Farmington"
+    },
+    {
+      "@type": "City",
+      "name": "Centerville"
+    }
+  ],
+  "employee": [
+    {
+      "@type": "Attorney",
+      "name": "Halston T. Davis",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark J. Sanchez",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jared L. Mortenson",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Blair Jones",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jon Bonnesen",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Halston T. Davis",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark J. Sanchez",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jared L. Mortenson",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Blair Jones",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark Talley",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jon M. Bonnesen",
+      "jobTitle": "Attorney"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Just Work Comp Law Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Workplace Fall Injury"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fall from Height at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Slip and Fall at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Overexertion Injury at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Lifting Injury at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Repetitive Stress Injury at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Construction Site Accident Injury"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Industrial Workplace Accident Injury"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Machinery Accident at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Equipment Malfunction Injury at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Forklift Accident on job"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Warehouse Accident at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Work-Related Vehicle Accident"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Delivery Driver Accident on the Job"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Struck by Object at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Chemical Exposure at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Toxic Exposure at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Respiratory Exposure at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Workplace Respiratory Illness"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Occupational Disease from Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Work-Related Illness"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Hearing Loss from Workplace Noise"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Back Injury at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Neck Injury at Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Temporary Disability Workers’ Compensation Benefits"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Permanent Disability Workers’ Compensation Claim"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Light Duty Work Restriction Workers’ Compensation Dispute"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Denied Medical Treatment Workers’ Compensation Claim"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Unable to Return to Work Workers’ Compensation Claim"
+        }
+      }
+    ]
+  }
+}

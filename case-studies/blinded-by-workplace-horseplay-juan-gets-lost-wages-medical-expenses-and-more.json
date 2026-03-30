@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Blinded By Workplace Horseplay, Juan Gets Lost Wages, Medical Expenses and More",
+  "articleBody": "Juan suffered a severe eye injury due to workplace horseplay involving an air hose. The firm secured lost wages, medical expenses, and additional compensation for Juan, despite the nature of the accident.\n\nOutcome: Secured lost wages, medical expenses, and additional compensation.",
+  "author": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "datePublished": "June 25, 2020",
+  "about": {
+    "@type": "Service",
+    "name": "Workplace Horseplay Injuries"
+  },
+  "genre": "Case Study"
+}
