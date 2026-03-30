@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Jared L. Mortenson",
+  "jobTitle": "Award-Winning Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Jared L. Mortenson is an award-winning attorney at Just Work Comp Law, focusing exclusively on workers' compensation law since 2008. Mr. Mortenson is dedicated to helping clients who have been denied benefits receive the assistance and compensation they deserve. He is admitted to practice in Utah and before the United States District Court. Mr. Mortenson earned his Bachelor's degree from Brigham Young University and holds a Juris Doctor (JD) and a Master of Business Administration (MBA) from the University of Alabama. He is a member of the Probate / Estate Planning Bar and the Utah Association for Justice. In his time away from work, Mr. Mortenson enjoys supporting his children's various activities and hobbies with his family. To discuss your workers' compensation case, contact Jared L. Mortenson at Just Work Comp Law at 801-746-0290 for a free consultation.",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "Workers' Compensation Law",
+    "Workers Compensation Appeals",
+    "Workers Compensation Settlement Negotiations",
+    "Worker's Compensation Denials",
+    "Workers Compensation Claims"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Riverton"
+  }
+}

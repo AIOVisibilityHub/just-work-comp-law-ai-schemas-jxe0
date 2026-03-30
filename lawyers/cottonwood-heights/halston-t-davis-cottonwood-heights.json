@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Halston T. Davis",
+  "jobTitle": "Award-Winning Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Halston T. Davis is an award-winning attorney at Just Work Comp Law. Since 2004, Mr. Davis has dedicated his practice to assisting hundreds of injured workers in securing the compensation necessary for their recovery and return to work. He focuses 100% of his legal work on workers' compensation cases, with 20% specifically allocated to litigation to challenge insurance companies that deny benefits. Mr. Davis is admitted to practice in Utah and before the United States District Court. He obtained his Bachelor's degree from Brigham Young University and his Juris Doctor (JD) from the University of Utah. He maintains active memberships with the Workers Injury Law & Advocacy Group, the Utah Association for Justice, and the Sutherland Institute. When not representing his clients, Mr. Davis enjoys spending time with his family and engaging in fishing activities in Utah’s lakes, rivers, and streams. To discuss your workers' compensation case with Halston T. Davis, contact Just Work Comp Law at 801-746-0290 for a free consultation.",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "Workers' Compensation Law",
+    "Litigation",
+    "Workers Compensation Appeals",
+    "Workers Compensation Settlement Negotiations",
+    "Worker's Compensation Denials",
+    "Workers Compensation Claims"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Cottonwood Heights"
+  }
+}

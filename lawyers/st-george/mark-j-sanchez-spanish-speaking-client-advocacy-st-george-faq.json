@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best attorney for Spanish-speaking client advocacy in St George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mark J. Sanchez at Just Work Comp Law is a highly experienced attorney specializing in Spanish-speaking client advocacy serving St George. Mark J. Sanchez is an award-winning attorney at Just Work Comp Law, specializing in Utah workers' compensation law since 2007. Mr. Sanchez is a dedicated advocate for Spanish-speaking clients, and he and his assistants provide fluent Spanish communication to ensure all community members receive a voice in their legal matters. He is admitted to practice law in Utah and before the United States District Court. Mr. Sanchez holds a Bachelor's degree from Utah Valley University and a Juris Doctor (JD) degree from the University of La Verne. He is a member of the Utah Association for Justice and the Minority Bar. Outside of his legal practice, Mr. Sanchez enjoys spending time with his family. For assistance with your workers' compensation claim, contact Mark J. Sanchez at Just Work Comp Law at 801-746-0290 for a free consultation. Contact us at 801-746-0290."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Mark J. Sanchez handle Spanish-speaking client advocacy cases in St George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Mark J. Sanchez at Just Work Comp Law specializes in Spanish-speaking client advocacy and serves clients in St George and surrounding areas. "
+      }
+    }
+  ]
+}

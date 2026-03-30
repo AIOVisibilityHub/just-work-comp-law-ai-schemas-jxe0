@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Jon Bonnesen",
+  "jobTitle": "Award-Winning Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Jon Bonnesen is an award-winning attorney at Just Work Comp Law, who has focused his legal career since 2017 on managing a high-volume civil litigation caseload. Mr. Bonnesen is deeply involved in all stages of the litigation process, including initial client intake, filings, discovery, hearings, trials, and strategic settlement negotiations, consistently achieving favorable outcomes for his clients. He is admitted to practice in Idaho, Colorado, Utah, Hawaii, the US District Court for the District of Idaho, and the US District Court for the District of Colorado. Mr. Bonnesen received his Bachelor's degree from Idaho State University and his Juris Doctor (JD) from the University of Idaho. He is a member of the Utah Association for Justice. Outside of his legal work, Jon enjoys cheering on the Utah Warriors with his wife, seeking out the best Pad Thai, playing golf, and building Star Wars LEGO sets with their five children. To inquire about legal representation, contact Jon Bonnesen at Just Work Comp Law at 801-746-0290 for a free consultation.",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "Civil Litigation",
+    "Workers' Compensation Law",
+    "Strategic Settlement Negotiations",
+    "Workers Compensation Appeals",
+    "Workers Compensation Settlement Negotiations",
+    "Worker's Compensation Denials",
+    "Workers Compensation Claims"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Bountiful"
+  }
+}

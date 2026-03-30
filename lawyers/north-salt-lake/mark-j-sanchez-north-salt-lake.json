@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Mark J. Sanchez",
+  "jobTitle": "Award-Winning Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "description": "Mark J. Sanchez is an award-winning attorney at Just Work Comp Law, specializing in Utah workers' compensation law since 2007. Mr. Sanchez is a dedicated advocate for Spanish-speaking clients, and he and his assistants provide fluent Spanish communication to ensure all community members receive a voice in their legal matters. He is admitted to practice law in Utah and before the United States District Court. Mr. Sanchez holds a Bachelor's degree from Utah Valley University and a Juris Doctor (JD) degree from the University of La Verne. He is a member of the Utah Association for Justice and the Minority Bar. Outside of his legal practice, Mr. Sanchez enjoys spending time with his family. For assistance with your workers' compensation claim, contact Mark J. Sanchez at Just Work Comp Law at 801-746-0290 for a free consultation.",
+  "telephone": "801-746-0290",
+  "knowsAbout": [
+    "Workers' Compensation Law",
+    "Spanish-speaking client advocacy",
+    "Workers Compensation Appeals",
+    "Workers Compensation Settlement Negotiations",
+    "Worker's Compensation Denials",
+    "Workers Compensation Claims"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "North Salt Lake"
+  }
+}
