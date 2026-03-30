@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Just Work Comp Law - Permanent Disability Workers’ Compensation Claim",
+  "description": "Professional Permanent Disability Workers’ Compensation Claim services in St George. Just Work Comp Law is a Utah and Idaho workers’ compensation law firm that helps injured employees recover benefits after workplace injuries. Services include filing workers’ compensation claims, appealing denied claims, resolving medical treatment disputes, and securing compensation for lost wages, disability benefits, and long-term workplace injuries. The firm operates on a no upfront cost basis and is dedicated exclusively to workers’ compensation law.",
+  "url": "https://justworkcomplaw.com/",
+  "telephone": "801-746-0290",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "St George"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "St George"
+  },
+  "employee": [
+    {
+      "@type": "Attorney",
+      "name": "Halston T. Davis",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark J. Sanchez",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jared L. Mortenson",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Blair Jones",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jon Bonnesen",
+      "jobTitle": "Award-Winning Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Halston T. Davis",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark J. Sanchez",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jared L. Mortenson",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Blair Jones",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Mark Talley",
+      "jobTitle": "Attorney"
+    },
+    {
+      "@type": "Attorney",
+      "name": "Jon M. Bonnesen",
+      "jobTitle": "Attorney"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Permanent Disability Workers’ Compensation Claim Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Permanent Disability Workers’ Compensation Claim"
+        }
+      }
+    ]
+  }
+}
