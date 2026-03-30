@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why Was My Claim Denied?",
+  "description": "There are many reasons a claim can be denied, but most often it is on the basis of causality (whether the injury actually arose from work), or a factual dispute",
+  "url": "https://justworkcomplaw.com//faq/general-why-was-my-claim-denied-4",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why Was My Claim Denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are many reasons a claim can be denied, but most often it is on the basis of causality (whether the injury actually arose from work), or a factual dispute."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is My Injury Work Related?",
+  "description": "Yes, if it happened during the course of your employment.",
+  "url": "https://justworkcomplaw.com//faq/general-is-my-injury-work-related-1",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is My Injury Work Related?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if it happened during the course of your employment."
+      }
+    }
+  ]
+}

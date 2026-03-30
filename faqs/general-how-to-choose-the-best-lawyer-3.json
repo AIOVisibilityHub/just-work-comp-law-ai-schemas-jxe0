@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to Choose the Best Lawyer",
+  "description": "It is important to find a lawyer who specializes in workers compensation, has a strong track record, and prioritizes communication.",
+  "url": "https://justworkcomplaw.com//faq/general-how-to-choose-the-best-lawyer-3",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to Choose the Best Lawyer",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is important to find a lawyer who specializes in workers compensation, has a strong track record, and prioritizes communication."
+      }
+    }
+  ]
+}

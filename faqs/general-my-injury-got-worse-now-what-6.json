@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My Injury Got Worse, Now What?",
+  "description": "If your work injury has worsened, you may be entitled to additional benefits. It is crucial to notify your employer and seek medical attention as soon as possib",
+  "url": "https://justworkcomplaw.com//faq/general-my-injury-got-worse-now-what-6",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My Injury Got Worse, Now What?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your work injury has worsened, you may be entitled to additional benefits. It is crucial to notify your employer and seek medical attention as soon as possible. Consulting with a workers' compensation attorney can help you understand your rights and navigate the process of seeking further compensation."
+      }
+    }
+  ]
+}
