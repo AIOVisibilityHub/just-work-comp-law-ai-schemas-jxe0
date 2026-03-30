@@ -1,0 +1,194 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Do After a Serious Back or Neck Injury at Work",
+  "description": "What to Do After a Serious Back or Neck Injury at Work - Salt Lake City",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "### Introduction"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2",
+      "text": "Lower back pain and cervical neck injuries are among the most debilitating conditions a worker can face. In Utah and Idaho, these injuries are also some of the most frequently contested by insurance companies. Whether you felt a sudden \"pop\" while lifting a heavy crate in a Salt Lake City warehouse or developed chronic neck stiffness after years of repetitive overhead work in Boise, the path to recovery and financial stability is paved with specific legal requirements."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3",
+      "text": "Understanding how to navigate the workers' compensation system is critical. If you miss a deadline or fail to describe your accident correctly, you could lose access to medical treatment, wage replacement, and permanent disability benefits. This guide outlines the essential steps to take from the moment of injury through the resolution of your claim."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4",
+      "text": "### What to Do First"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5",
+      "text": "The moments and days immediately following a back or neck injury are vital. Your actions during this window often determine the success of your claim."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6",
+      "text": "1.  **Report the Injury Immediately:** Even if you think it’s just a \"pulled muscle,\" report it to your supervisor. Under Utah law, you generally have 180 days to report, but Idaho has different strictures and practical realities. In both states, waiting even a few days gives the insurance company an excuse to claim the injury happened at home."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Step 7",
+      "text": "2.  **Be Specific About the Event:** When reporting, don’t just say \"my back hurts.\" Explain what caused it. For example: \"I was lifting a 50-pound box when I felt a sharp pain in my lower back that radiated down my leg.\""
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "name": "Step 8",
+      "text": "3.  **Seek Medical Attention from an Authorized Provider:** In many cases, your employer or their insurance carrier has the right to choose the initial treating physician. Ask your employer where you should go to ensure the visit is covered."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "name": "Step 9",
+      "text": "4.  **Document Everything:** Keep a journal of your symptoms. Neck and back injuries often evolve; what starts as stiffness on Monday can become numbness in your fingers by Thursday."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "name": "Step 10",
+      "text": "### How the Process Works"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 11,
+      "name": "Step 11",
+      "text": "Once you report the injury, your employer should file an \"Employer’s First Report of Injury.\" From there:"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 12,
+      "name": "Step 12",
+      "text": "*   **The Adjuster’s Review:** An insurance adjuster will investigate. They may request a recorded statement. *Be cautious here:* Adjusters often look for ways to attribute back pain to \"aging\" rather than the specific workplace incident."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 13,
+      "name": "Step 13",
+      "text": "*   **Medical Treatment:** You will likely start with conservative care—physical therapy, rest, and anti-inflammatories. If these fail, you may be referred for MRIs or to a specialist like a physiatrist or orthopedic surgeon."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 14,
+      "name": "Step 14",
+      "text": "*   **The Decision:** The insurance company will either \"accept\" or \"deny\" the claim. If accepted, they pay for medical bills and a portion of your lost wages (Temporary Total Disability)."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 15,
+      "name": "Step 15",
+      "text": "### Key Evidence and Documents"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 16,
+      "name": "Step 16",
+      "text": "Back and neck cases often turn on \"medical causation.\" You will need:"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 17,
+      "name": "Step 17",
+      "text": "*   **Diagnostic Imaging:** X-rays, MRIs, and CT scans that show herniated discs, bulging discs, or spinal stenosis."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 18,
+      "name": "Step 18",
+      "text": "*   **Work Status Notes:** Documentation from your doctor explicitly stating your work restrictions (e.g., \"no lifting over 10 lbs,\" \"no prolonged sitting\")."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 19,
+      "name": "Step 19",
+      "text": "*   **Witness Statements:** Co-workers who saw the accident or noticed you struggling with pain immediately afterward."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 20,
+      "name": "Step 20",
+      "text": "### Common Mistakes to Avoid"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 21,
+      "name": "Step 21",
+      "text": "*   **Minimizing Symptoms:** Workers often try to \"tough it out.\" If you don't tell the doctor about the tingling in your feet, it won't be in the record, and the insurance company will argue it isn't work-related later."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 22,
+      "name": "Step 22",
+      "text": "*   **Missing Appointments:** Inconsistent treatment is the fastest way to have your benefits terminated. The insurance company will argue that if you aren't going to therapy, you must be healed."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 23,
+      "name": "Step 23",
+      "text": "*   **Posting on Social Media:** Avoid posting photos of your physical activities. A photo of you at a child’s birthday party can be twisted by an insurance lawyer to argue your back isn't actually injured."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 24,
+      "name": "Step 24",
+      "text": "### When to Contact a Lawyer"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 25,
+      "name": "Step 25",
+      "text": "Back and neck injuries are expensive for insurance companies because they often require long-term care or surgery. You should contact an attorney if:"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 26,
+      "name": "Step 26",
+      "text": "*   Your claim is denied based on a \"pre-existing condition.\""
+    },
+    {
+      "@type": "HowToStep",
+      "position": 27,
+      "name": "Step 27",
+      "text": "*   The insurance company refuses to authorize a surgery recommended by your doctor."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 28,
+      "name": "Step 28",
+      "text": "*   You are being pressured to return to work before you are physically ready."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 29,
+      "name": "Step 29",
+      "text": "*   You have reached Permanent Partial Disability (PPD) and believe the insurance company’s rating is too low."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 30,
+      "name": "Step 30",
+      "text": "### Next Steps"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 31,
+      "name": "Step 31",
+      "text": "If you've suffered a spinal injury, your first priority is health, but your second must be protection. Ensure your injury is reported in writing, follow all medical advice strictly, and keep a file of every document you receive. If you feel the process is becoming adversarial, reaching out to a firm like Just Work Comp Law can help ensure your rights in Utah or Idaho are protected."
+    }
+  ]
+}
